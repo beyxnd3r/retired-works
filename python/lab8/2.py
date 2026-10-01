@@ -1,3 +1,4 @@
+# 2.py: Lottery numbers generator
 import random
 a = random.randint(1,49)
 b = random.randint(1,49)

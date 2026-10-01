@@ -1,3 +1,5 @@
+# 11_3.py: Hogwarts email list generator
+
 emails = {
     'gryffindor.com': ['andrei_serov', 'alexander_pushkin', 'elena_belova', 'k_stepanov'],
     'hufflepuff.com': ['alena.semyonova', 'ivan.polekhin', 'marina_abrabova'],

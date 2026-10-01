@@ -1,3 +1,4 @@
+# 3.py: Dot-separated letters
 a = input('Введите слово')
 for i in range(len(a)):
     if i<len(a)-1:

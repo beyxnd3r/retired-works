@@ -1,3 +1,4 @@
+# 4.py: Fix review wording ("Не плохо" -> "Хорошо")
 a = input("Введите отзыв")
 
 if "Не плохо" in a or "не плохо" in a:

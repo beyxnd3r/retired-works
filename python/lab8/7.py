@@ -1,3 +1,4 @@
+# 7.py: Bank card validator (Luhn algorithm)
 a = input("Введите номер карты")
 digits = [int(d) for d in a]
 chet_sum = sum(digits[-1::-2])

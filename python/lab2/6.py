@@ -1,3 +1,4 @@
+# 6.py: Number Guessing Game
 import random
 secret = random.randint(1, 10)
 a = 0

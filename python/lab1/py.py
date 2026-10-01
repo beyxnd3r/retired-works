@@ -1,3 +1,4 @@
+# py.py - A program that takes in the number of days, hours, minutes and seconds and converts it into seconds.
 a = (int(input("Input days ")))
 b = (int(input("Input hours ")))
 c = (int(input("Input minutes ")))

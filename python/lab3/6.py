@@ -1,3 +1,4 @@
+# 6.py: Decode #-marked word
 word = input('Введите зашифрованое слово: ')
 sum1 = ' '
 sum2 = ' '

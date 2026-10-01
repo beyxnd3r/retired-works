@@ -1,3 +1,5 @@
+# 12_4.py: Signed 8-bit binary code converter GUI
+# What it does: Shows a PySimpleGUI window to input an integer -128..127 and display its direct, inverse (one's complement) and two's complement codes via to_signed_binary().
 from random import randint
 import PySimpleGUI as sg
 

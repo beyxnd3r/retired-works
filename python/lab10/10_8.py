@@ -1,3 +1,5 @@
+# 10_8.py: Hash-dot maze pattern printer
+
 n = int(input("Введите число"))
 m = int(input("Введите второе число"))
 if n < 3 or n > 50 or m < 3 or m > 50:

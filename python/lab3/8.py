@@ -1,3 +1,4 @@
+# 8.py: Determine match winner
 a =  input("Введите счет матча(Формат: Команда-Команда A:B")
 a1 = a.split()
 k = a1[0].split('-')

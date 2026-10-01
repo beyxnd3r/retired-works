@@ -1,3 +1,5 @@
+# 10_7.py: Random password generator from file words
+
 import random
 with open(r'C:\file7z.txt', 'r', encoding='utf-8') as file:
     text = file.read()

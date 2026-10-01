@@ -1,3 +1,5 @@
+# 12_1.py: Evacuation order sorter
+
 ask = int(input())
 women_and_children = []
 men = []

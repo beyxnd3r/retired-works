@@ -1,4 +1,4 @@
-a1 = int(input("Input first side of the triangle"))
+# 4py.py: Triangle Side Classifier
 a2 = int(input("Input second side of the triangle"))
 a3 = int(input("Input third side of the triabgle"))
 

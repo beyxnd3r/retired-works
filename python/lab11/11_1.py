@@ -1,3 +1,5 @@
+# 11_1.py: Old mobile keypad encoder
+
 letters = {
     '1': '.,?!:',
     '2': 'ABC',

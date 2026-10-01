@@ -1,3 +1,5 @@
+# 10_3.py: Word and letter-e statistics
+
 counte = 0
 count = 0
 letter = "e"

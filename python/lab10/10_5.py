@@ -1,3 +1,5 @@
+# 10_5.py: Insert line into middle of file
+
 
 with open(r'C:\file5z.txt', 'r', encoding='utf-8') as file:
     text = file.readlines()

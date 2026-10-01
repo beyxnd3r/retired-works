@@ -1,3 +1,4 @@
+# 4.py: Hashtag Christmas Tree Printer
 n = int(input("Введите елочку"))
 
 for i in range(n):

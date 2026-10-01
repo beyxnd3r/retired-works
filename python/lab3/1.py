@@ -1,3 +1,4 @@
+# 1.py: Remove consecutive duplicate words
 a = input("Введите предложение: ")
 
 b = a.split()

@@ -1,3 +1,5 @@
+# 11_2.py: Scrabble word scorer
+
 points = {
     '1': ['A', 'E', 'I', 'L', 'N', 'O', 'R', 'S', 'T', 'U'],
     '2': ['D', 'G'],

@@ -1,3 +1,4 @@
+# 5.py: Dog Years to Human Years Converter
 s = float(input("Введите количество лет"))
 o = s*10.5
 l = s*4

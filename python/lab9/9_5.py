@@ -1,3 +1,4 @@
+# 9_5.py: Matrix transpose
 
 n, m = map(int, input("Введите размер матрицы").split())
 

@@ -1,3 +1,4 @@
+# 9_1.py: Numerical integration by trapezoidal rule
 def func(x):
     return x**2 / (10 + x**3)
 

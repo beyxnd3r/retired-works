@@ -1,3 +1,4 @@
+# 4.py: Split numbers by average
 a = []
 while 1:
     b = input("Введите число(Для остановки нажмите enter)")

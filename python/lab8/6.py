@@ -1,3 +1,4 @@
+# 6.py: Coin streak simulator (3 in a row)
 import random
 a = ["O","P"]
 count = 0

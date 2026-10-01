@@ -1,3 +1,4 @@
+# 9_2.py: Random 3x3 magic square search
 import random
 from random import randint
 

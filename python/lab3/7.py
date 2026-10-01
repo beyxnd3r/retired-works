@@ -1,3 +1,4 @@
+# 7.py: Random password generator
 import random
 
 a = int(input("Создаем пароль. Введите длину"))

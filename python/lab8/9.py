@@ -1,3 +1,4 @@
+# 9.py: Dormitory room occupancy check
 a = [1,10]
 d = [0,10]
 c = [10,10]

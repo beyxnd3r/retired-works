@@ -1,3 +1,4 @@
+# 9_7.py: Cinema row finder for a group
 import random
 from random import randint
 

@@ -1,3 +1,5 @@
+# 9_8.py: Combinatorial matrix builder
+
 # Ввод размеров матрицы
 n = int(input("Введите количество строк (n): "))
 m = int(input("Введите количество столбцов (m): "))

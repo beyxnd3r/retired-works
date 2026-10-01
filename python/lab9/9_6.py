@@ -1,3 +1,4 @@
+# 9_6.py: Square matrix diagonal swap
 a = int(input("Введите размер матрицы n*n"))
 m = []
 strk = []

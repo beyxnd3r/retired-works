@@ -1,3 +1,5 @@
+# 12_2.py: Random Q/A balance checker
+
 import random
 
 a = ["Q","A"]

@@ -1,3 +1,5 @@
+# 10_4.py: Name list selector by gender
+
 with open(r'C:\file7.txt', 'r', encoding='utf-8') as file:
     female_names = []
     for line in file:

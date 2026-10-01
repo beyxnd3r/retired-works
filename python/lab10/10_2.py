@@ -1,3 +1,5 @@
+# 10_2.py: Academy word checker in two files
+
 with open(r'C:\file5.txt', encoding='utf-8') as file:
     acad = file.read()
     if "Academy" in acad:
